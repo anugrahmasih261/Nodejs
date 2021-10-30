@@ -1,0 +1,9 @@
+this is a folder to render all the msges to users 
+when they do some mistakes while regiter
+or while login
+we will send msg to them using this folder
+
+
+<% include ./partials/messages %>
+ this line goes to register.ejs so we can include all msgess like error msgess
+
