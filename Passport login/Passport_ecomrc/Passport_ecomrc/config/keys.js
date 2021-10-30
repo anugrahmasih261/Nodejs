@@ -1,4 +1,4 @@
-dbPassword = 'mongodb+srv://anugrahmasih:' + encodeURIComponent('Masih@Harvard@26112007') + '@masih.zkptk.mongodb.net/Masih?retryWrites=true&w=majority';
+dbPassword = 'mongodb+srv://clusteruser name:' + encodeURIComponent('Password from cluster mongo db') + 'cloud mongodb key';
 
 
 module.exports = {
